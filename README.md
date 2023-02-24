@@ -1,5 +1,6 @@
 # Transmission_Line_Parameter_Estimation
-The EGLE algorithm for parameter estimation in presence of non-Gaussian measurements and related data
+The EGLE algorithm for parameter estimation in presence of non-Gaussian measurements and related data.
+
 Reference: Varghese, A. C., Pal, A., & Dasarathy, G. (2022). Transmission line parameter estimation under non-Gaussian measurement noise. IEEE Transactions on Power Systems.
 
 Objective: Novel optimal parameter estimation algorithm (optimal even when the measurement noise is non-Gaussian)
