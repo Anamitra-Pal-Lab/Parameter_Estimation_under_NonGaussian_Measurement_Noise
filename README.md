@@ -17,5 +17,5 @@ The related files that can be useful in running the main file are:
 
 These files, along with the MAIN file helps in finding the optimal estimates of the linear system of equations when only the noisy measurements are available. They also help in generating Non Gaussian measurement noise (if required), and comparing the performance with least squares and total least squares estimation methods.
 
-The file EGLE_TLPE_example.py demonstrates the use of EGLE for transmission line parameter estimation (TLPE). This file also makes use of functions from the related files mentioned above. The sample data files required for conducting TLPE can be obtained from "https://drive.google.com/drive/folders/1AV0r4B39711WNf9e_Gcv--MTyo4aa09b?usp=sharing".
+The file EGLE_MWC_to_PS_WC.py demonstrates the use of EGLE for transmission line parameter estimation (TLPE). This file also makes use of functions from the related files mentioned above. The sample data files required for conducting TLPE can be obtained from "https://drive.google.com/drive/folders/1c2_yhQRgpz2i03L7LBnbDNj9cbpV3raJ?usp=sharing".
 
